@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Aviation Crash Analysis"
-date:   2017-06-06 08:00:00 +0000
+date:   2017-06-06
 excerpt: "My Capstone project"
 project: true
 tag:
